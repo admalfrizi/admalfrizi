@@ -16,4 +16,5 @@ You can follow my social media account in the down below :
 <a href="https://www.linkedin.com/in/adalf26/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 and My Web : 
+
 <a href="https://adamalfarizi26.netlify.app/"><img src="https://img.shields.io/badge/My_Web-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
