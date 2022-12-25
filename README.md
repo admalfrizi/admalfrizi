@@ -17,4 +17,4 @@ You can follow my social media account in the down below :
 
 and My Web : 
 
-<a href="https://adamalfarizi26.netlify.app/"><img src="https://img.shields.io/badge/My_Web-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+<a href="https://adamalfarizi26.netlify.app/"><img src="https://img.shields.io/badge/My_Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
