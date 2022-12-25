@@ -1,4 +1,4 @@
-# Oh Hello, Welcome To My Hub
+# Oh Hello, Welcome To My GitHub
 
 ### My Name Is Adam Alfarizi Ismail
 
