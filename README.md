@@ -9,8 +9,11 @@ and currently studying at Dian Nuswantoro University majoring in Informatics
 ## Soon To Achieve
 <img src="https://img.shields.io/badge/android_react_native-61DAFB?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> 
 
-## My Social Media
+## My Social Media and My Web
 You can follow my social media account in the down below :
 
 <a href="https://www.instagram.com/aaiyangasli/?hl=id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="https://www.linkedin.com/in/adalf26/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+and My Web : 
+<a href="https://adamalfarizi26.netlify.app/"><img src="https://img.shields.io/badge/My_Web-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
