@@ -4,4 +4,4 @@ I'am from Ungaran , Semarang Regency, Indonesia and Having a interest with UI UX
 and currently studying at Dian Nuswantoro University majoring in Informatics
 
 ## My Skill Stack
-<img src="https://img.shields.io/badge/html5%20-%3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/android%20-%3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
