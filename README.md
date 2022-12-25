@@ -4,4 +4,4 @@ I'am from Ungaran , Semarang Regency, Indonesia and Having a interest with UI UX
 and currently studying at Dian Nuswantoro University majoring in Informatics
 
 ## My Skill Stack
-<img src="https://img.shields.io/badge/android%20-%3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/android_kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/android_flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/reactJs%20-%61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/> 
+<img src="https://img.shields.io/badge/android%20-%3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/android_kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/android_flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/reactJs%61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/> 
