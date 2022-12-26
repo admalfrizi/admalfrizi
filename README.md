@@ -1,4 +1,4 @@
-# Oh Hello, Welcome To My GitHub
+# Oh Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">, Welcome To My GitHub
 
 ### My Name Is Adam Alfarizi Ismail
 
