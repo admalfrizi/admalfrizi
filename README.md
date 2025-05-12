@@ -19,5 +19,5 @@ You can follow my social media account in the down below :
 
 and My Portofolio Web : 
 
-<a href="https://adamalfarizi26.netlify.app/"><img src="https://img.shields.io/badge/My_Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://adamalfarizi.site/"><img src="https://img.shields.io/badge/My_Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 ### Have a Nice Day and Thank you For Your Visit <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">
