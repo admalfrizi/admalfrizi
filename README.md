@@ -2,8 +2,8 @@
 
 ### My Name Is Adam Alfarizi Ismail
 
-I'am from Ungaran , Semarang Regency, Indonesia and Having a interest with UI UX Design enthusiast and Mobile Web Development.
-and currently studying at Dian Nuswantoro University majoring in Informatics
+I'am from Ungaran, Semarang, Indonesia and Having a interest with UI UX Design enthusiast and Mobile Web Development.
+and freshgraduate from Universitas Dian Nuswantoro with Bachelor Degree Informatics Engineering
 
 ## My Skill Stack
 <img src="https://img.shields.io/badge/android%20-%3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/android_kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/android_flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/reactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
